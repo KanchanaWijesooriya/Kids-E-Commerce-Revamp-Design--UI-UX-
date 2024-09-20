@@ -8,4 +8,4 @@ Wireframes: https://www.figma.com/design/ViN6PDhLifgBKMWKZEQw3B/Untitled?node-id
 
 High Fidelity: https://www.figma.com/design/ViN6PDhLifgBKMWKZEQw3B/Untitled?node-id=1-2225&t=r7WMO6ofMAw8xbx4-1
 
-More Information: 
+More Information: [DU CW COBSCCOMP24.1-020.pdf](https://github.com/user-attachments/files/17071941/DU.CW.COBSCCOMP24.1-020.pdf)
